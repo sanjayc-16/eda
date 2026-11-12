@@ -125,7 +125,7 @@ The detailed Word report, `EDA_Report.docx`, provides the project blueprint, met
 
 ## 💻 Grab
 
-![data viewer](dataframe.png)
+![data viewer](dataf.png)
 _Fig : The production data frame (150 rows, 7 columns) in the RStudio data viewer_
 ![environment](environmentpane.png)
 _Fig : Environment pane (data frames in the session) and Files pane (eda.Rmd, eda.docx and project files)_
